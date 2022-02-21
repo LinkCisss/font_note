@@ -1,5 +1,3 @@
-![前端硬核面试专题](https://upload-images.jianshu.io/upload_images/12890819-143da2ac64b67a73.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 
 # 目录
 
@@ -3562,5 +3560,5 @@ function findMaxDuplicateChar(str) {
 ## 12. Git
  [Git 的 4 个阶段的撤销更改](https://segmentfault.com/a/1190000011969554)
 ## 13. 最后
-技术博客首发地址  [GitHub](https://github.com/biaochenxuying/blog)。
+
 [⬆️ 返回顶部](#目录)
